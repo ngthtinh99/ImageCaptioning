@@ -25,3 +25,11 @@ No. | Student ID | Student Name
 <pre>python app.py</pre>
 5. Browse the deploy on Localhost via the link http://localhost:7860, or the Public link generated in Command prompt.
 6. Enjoy 🙂
+
+## References
+
+[[1](https://github.com/salesforce/BLIP)] BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation.
+
+[[2](https://arxiv.org/abs/2201.12086)] Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi, BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation.
+
+[[3](https://github.com/gradio-app/gradio)] Gradio: Build Machine Learning Web Apps — in Python.
